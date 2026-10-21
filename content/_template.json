@@ -1,0 +1,13 @@
+{
+  "id": "a1-03",
+  "level": "A1",
+  "title": "Título corto",
+  "can": "Puedo hacer algo concreto en inglés.",
+  "text": "Texto en inglés, 40 a 80 palabras, con ~95% de palabras ya conocidas.",
+  "translation": "Traducción al español.",
+  "vocab": [{"en": "word", "es": "palabra", "example": "Example sentence."}],
+  "grammar": "Una sola idea gramatical, explicada en español con ejemplos.",
+  "caution": "Falso amigo o error típico de hispanohablantes.",
+  "quiz": [{"q": "Pregunta", "options": ["a", "b", "c"], "answer": 0}],
+  "write": {"prompt": "Qué debe escribir el estudiante.", "model": "Respuesta modelo."}
+}

@@ -1,0 +1,13 @@
+{
+  "name": "english-real",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "App web para aprender inglés de verdad: sin rachas, sin compras.",
+  "scripts": {
+    "dev": "python3 -m http.server 8080",
+    "build:index": "node scripts/build-index.mjs",
+    "test": "node scripts/validate.mjs && node --check src/app.js"
+  },
+  "engines": {"node": ">=18"}
+}

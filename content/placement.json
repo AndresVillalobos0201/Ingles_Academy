@@ -1,0 +1,102 @@
+[
+  {
+    "q": "My name ___ Sara.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "answer": 1,
+    "level": "A1"
+  },
+  {
+    "q": "They ___ students.",
+    "options": [
+      "is",
+      "am",
+      "are"
+    ],
+    "answer": 2,
+    "level": "A1"
+  },
+  {
+    "q": "I ___ two brothers.",
+    "options": [
+      "have",
+      "has",
+      "am"
+    ],
+    "answer": 0,
+    "level": "A1"
+  },
+  {
+    "q": "She ___ to work by bus every day.",
+    "options": [
+      "go",
+      "goes",
+      "going"
+    ],
+    "answer": 1,
+    "level": "A2"
+  },
+  {
+    "q": "Yesterday we ___ a great film.",
+    "options": [
+      "see",
+      "saw",
+      "seen"
+    ],
+    "answer": 1,
+    "level": "A2"
+  },
+  {
+    "q": "___ you like some coffee?",
+    "options": [
+      "Do",
+      "Would",
+      "Are"
+    ],
+    "answer": 1,
+    "level": "A2"
+  },
+  {
+    "q": "If it rains, I ___ at home.",
+    "options": [
+      "stay",
+      "will stay",
+      "stayed"
+    ],
+    "answer": 1,
+    "level": "B1"
+  },
+  {
+    "q": "I have lived here ___ 2019.",
+    "options": [
+      "for",
+      "since",
+      "from"
+    ],
+    "answer": 1,
+    "level": "B1"
+  },
+  {
+    "q": "If I ___ more time, I would learn Italian.",
+    "options": [
+      "have",
+      "had",
+      "will have"
+    ],
+    "answer": 1,
+    "level": "B2"
+  },
+  {
+    "q": "She suggested ___ earlier.",
+    "options": [
+      "to leave",
+      "leaving",
+      "leave"
+    ],
+    "answer": 1,
+    "level": "B2"
+  }
+]

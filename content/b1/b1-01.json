@@ -1,0 +1,56 @@
+{
+  "id": "b1-01",
+  "level": "B1",
+  "title": "Dar tu opinión",
+  "can": "Puedo defender una opinión con razones.",
+  "text": "In my opinion, working from home is better for most people. First, you save time because you do not travel. Also, you can focus more in a quiet place. However, some people feel lonely, so I think a mix of both is ideal.",
+  "translation": "En mi opinión, trabajar desde casa es mejor para la mayoría. Primero, ahorras tiempo porque no viajas. Además, puedes concentrarte más en un lugar tranquilo. Sin embargo, algunos se sienten solos, así que creo que una mezcla es ideal.",
+  "vocab": [
+    {
+      "en": "in my opinion",
+      "es": "en mi opinión",
+      "example": "In my opinion, it is a good idea."
+    },
+    {
+      "en": "however",
+      "es": "sin embargo",
+      "example": "However, it is expensive."
+    },
+    {
+      "en": "focus",
+      "es": "concentrarse",
+      "example": "I can focus at home."
+    },
+    {
+      "en": "lonely",
+      "es": "sentirse solo",
+      "example": "Some people feel lonely."
+    }
+  ],
+  "grammar": "Estructura: opinión → razón 1 (First) → razón 2 (Also) → contraargumento (However) → conclusión (So). Los conectores hacen que suenes B1 y no una lista de frases sueltas.",
+  "caution": "“Lonely” es sentirse solo; “alone” es estar sin compañía. Puedes estar alone y feliz.",
+  "quiz": [
+    {
+      "q": "Conector para contrastar:",
+      "options": [
+        "Also",
+        "However",
+        "First"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Según el texto, ¿cuál es la conclusión?",
+      "options": [
+        "Solo oficina",
+        "Solo casa",
+        "Una mezcla"
+      ],
+      "answer": 2
+    }
+  ],
+  "write": {
+    "prompt": "Da tu opinión sobre estudiar en línea vs. presencial: opinión, 2 razones y un contraargumento.",
+    "model": "In my opinion, studying online is useful. First, it is flexible. Also, it is cheaper. However, it is hard to stay motivated, so I prefer a mix."
+  }
+}

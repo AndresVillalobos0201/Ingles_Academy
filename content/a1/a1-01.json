@@ -1,0 +1,56 @@
+{
+  "id": "a1-01",
+  "level": "A1",
+  "title": "Presentarte",
+  "can": "Puedo decir mi nombre, de dónde soy y a qué me dedico.",
+  "text": "Hi, my name is Ana. I am from Colombia. I live in Bogotá. I am a nurse. I work in a hospital. Nice to meet you!",
+  "translation": "Hola, me llamo Ana. Soy de Colombia. Vivo en Bogotá. Soy enfermera. Trabajo en un hospital. ¡Mucho gusto!",
+  "vocab": [
+    {
+      "en": "nurse",
+      "es": "enfermero/a",
+      "example": "She is a nurse."
+    },
+    {
+      "en": "hospital",
+      "es": "hospital",
+      "example": "I work in a hospital."
+    },
+    {
+      "en": "live",
+      "es": "vivir",
+      "example": "I live in Bogotá."
+    },
+    {
+      "en": "work",
+      "es": "trabajar",
+      "example": "I work every day."
+    }
+  ],
+  "grammar": "Verbo to be: I am, you are, he/she is. En inglés el sujeto es obligatorio: “I am a nurse”, nunca “Am a nurse”. Con profesiones se usa “a”: a nurse, a teacher.",
+  "caution": "La h de “hospital” sí se pronuncia (suave). “Nurse” suena /ners/.",
+  "quiz": [
+    {
+      "q": "¿Cómo dice Ana su profesión?",
+      "options": [
+        "I am a nurse.",
+        "I have a nurse.",
+        "I do nurse."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "She ___ from Colombia.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer": 1
+    }
+  ],
+  "write": {
+    "prompt": "Escribe 3 frases sobre ti: tu nombre, de dónde eres y a qué te dedicas.",
+    "model": "Hi, my name is Luis. I am from Cali. I am a teacher."
+  }
+}

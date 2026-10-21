@@ -1,0 +1,56 @@
+{
+  "id": "a2-01",
+  "level": "A2",
+  "title": "Pedir en un restaurante",
+  "can": "Puedo pedir comida y pagar con amabilidad.",
+  "text": "Waiter: Hello! Are you ready to order?\nCustomer: Yes, I would like the chicken soup, please.\nWaiter: Anything to drink?\nCustomer: Just water, thank you. Could I have the bill later?",
+  "translation": "Mesero: ¡Hola! ¿Listo para pedir? Cliente: Sí, quisiera la sopa de pollo, por favor. Mesero: ¿Algo de beber? Cliente: Solo agua, gracias. ¿Me trae la cuenta más tarde?",
+  "vocab": [
+    {
+      "en": "order",
+      "es": "pedir / ordenar",
+      "example": "Are you ready to order?"
+    },
+    {
+      "en": "would like",
+      "es": "quisiera",
+      "example": "I would like a coffee."
+    },
+    {
+      "en": "bill",
+      "es": "cuenta",
+      "example": "Could I have the bill, please?"
+    },
+    {
+      "en": "drink",
+      "es": "bebida",
+      "example": "Anything to drink?"
+    }
+  ],
+  "grammar": "“I would like…” es más cortés que “I want…”. Para pedir algo: “Could I have…?”. Para ofrecer: “Would you like…?”.",
+  "caution": "“Actually” no es “actualmente”: significa “en realidad”. Actualmente = currently.",
+  "quiz": [
+    {
+      "q": "Forma más cortés de pedir:",
+      "options": [
+        "I want soup.",
+        "I would like soup, please.",
+        "Give me soup."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿Qué pide para beber?",
+      "options": [
+        "juice",
+        "water",
+        "coffee"
+      ],
+      "answer": 1
+    }
+  ],
+  "write": {
+    "prompt": "Escribe un mini diálogo: pides una comida, una bebida y la cuenta.",
+    "model": "I would like the pasta, please. Could I have a juice? Could I have the bill, please?"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "a2-02",
+  "level": "A2",
+  "title": "Tu fin de semana (pasado)",
+  "can": "Puedo contar qué hice ayer o el fin de semana.",
+  "text": "Last weekend I visited my grandmother. We cooked lunch together and then we walked in the park. I was tired, but I felt happy. On Sunday I stayed at home and watched a movie.",
+  "translation": "El fin de semana pasado visité a mi abuela. Cocinamos juntas y luego caminamos por el parque. Estaba cansada, pero me sentí feliz. El domingo me quedé en casa y vi una película.",
+  "vocab": [
+    {
+      "en": "visit",
+      "es": "visitar",
+      "example": "I visited my friend."
+    },
+    {
+      "en": "tired",
+      "es": "cansado/a",
+      "example": "I was tired."
+    },
+    {
+      "en": "felt",
+      "es": "sentí (feel)",
+      "example": "I felt happy."
+    },
+    {
+      "en": "stay at home",
+      "es": "quedarse en casa",
+      "example": "We stayed at home."
+    }
+  ],
+  "grammar": "Pasado simple regular: verbo + -ed (visited, cooked, walked). Irregulares que se memorizan: was/were, felt, went, saw, had. Negativo: didn’t + verbo base (“I didn’t go”).",
+  "caution": "-ed suena distinto: visited /id/, cooked /t/, played /d/.",
+  "quiz": [
+    {
+      "q": "Yesterday I ___ to the park.",
+      "options": [
+        "go",
+        "went",
+        "goed"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "I didn’t ___ TV.",
+      "options": [
+        "watched",
+        "watch",
+        "watching"
+      ],
+      "answer": 1
+    }
+  ],
+  "write": {
+    "prompt": "Escribe 4 frases sobre lo que hiciste el fin de semana pasado.",
+    "model": "On Saturday I went to the market. I bought fruit. I met my friend and we had coffee. I felt relaxed."
+  }
+}

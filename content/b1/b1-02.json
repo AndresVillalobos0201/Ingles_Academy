@@ -1,0 +1,56 @@
+{
+  "id": "b1-02",
+  "level": "B1",
+  "title": "Planes y condiciones",
+  "can": "Puedo hablar de planes y de qué pasará si…",
+  "text": "If the weather is good tomorrow, we will go to the beach. If it rains, we will stay home and play games. I am going to bring sunscreen, just in case.",
+  "translation": "Si el clima es bueno mañana, iremos a la playa. Si llueve, nos quedaremos en casa y jugaremos. Voy a llevar protector solar, por si acaso.",
+  "vocab": [
+    {
+      "en": "weather",
+      "es": "clima",
+      "example": "The weather is nice."
+    },
+    {
+      "en": "sunscreen",
+      "es": "protector solar",
+      "example": "I bring sunscreen."
+    },
+    {
+      "en": "just in case",
+      "es": "por si acaso",
+      "example": "Take an umbrella just in case."
+    },
+    {
+      "en": "stay home",
+      "es": "quedarse en casa",
+      "example": "We will stay home."
+    }
+  ],
+  "grammar": "Primer condicional: If + presente, will + verbo. “If it rains, we will stay home.” Planes ya decididos: be going to + verbo.",
+  "caution": "Después de “if” no se usa will: “If it rains” ✓ · “If it will rain” ✗.",
+  "quiz": [
+    {
+      "q": "If I ___ time, I will call you.",
+      "options": [
+        "have",
+        "will have",
+        "had"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "¿Qué harán si llueve?",
+      "options": [
+        "Ir a la playa",
+        "Quedarse en casa",
+        "Comprar protector"
+      ],
+      "answer": 1
+    }
+  ],
+  "write": {
+    "prompt": "Escribe 3 frases con “If…, I will…” sobre tu próxima semana.",
+    "model": "If I finish early, I will study English. If my friend calls, I will meet her. If it rains, I will read at home."
+  }
+}

@@ -1,0 +1,15 @@
+:root{color-scheme:light;--bg:#faf8f4;--fg:#1d1b18;--mu:#6b655c;--cd:#fff;--ac:#1f6f5c;--ab:#e3f1ec;--bd:#e4ded3;--bad:#b3392f;--bb:#fbe9e7;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#161512;--fg:#efebe3;--mu:#a49d90;--cd:#201f1b;--ac:#5cc4a8;--ab:#1d332d;--bd:#34322c;--bad:#f08a80;--bb:#3a2321}}
+:root[data-theme="dark"]{color-scheme:dark;--bg:#161512;--fg:#efebe3;--mu:#a49d90;--cd:#201f1b;--ac:#5cc4a8;--ab:#1d332d;--bd:#34322c;--bad:#f08a80;--bb:#3a2321}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 Georgia,"Times New Roman",serif}
+main{max-width:680px;margin:0 auto;padding:16px 16px 90px}h1{font-size:26px;margin:8px 0}h2{font-size:20px;margin:18px 0 8px}
+.c{background:var(--cd);border:1px solid var(--bd);border-radius:12px;padding:14px;margin:12px 0}.mu{color:var(--mu);font-size:14px}
+button{font:inherit;cursor:pointer;border:1px solid var(--bd);background:var(--cd);color:var(--fg);border-radius:10px;padding:9px 14px;margin:3px 3px 3px 0}
+button.p{background:var(--ac);border-color:var(--ac);color:var(--bg);font-weight:bold}button.o.s{background:var(--ab);border-color:var(--ac)}
+button.ok{background:var(--ab);border-color:var(--ac)}button.no{background:var(--bb);border-color:var(--bad)}
+nav{position:fixed;bottom:0;left:0;right:0;display:flex;background:var(--cd);border-top:1px solid var(--bd);padding-bottom:env(safe-area-inset-bottom,0px)}
+nav button{flex:1;border:0;border-radius:0;margin:0;padding:14px 4px;background:none;font-size:14px}nav button.a{color:var(--ac);font-weight:bold}
+textarea,input{width:100%;font:inherit;padding:10px;border:1px solid var(--bd);border-radius:10px;background:var(--bg);color:var(--fg)}
+.en{font-size:19px;line-height:1.7}.tag{display:inline-block;background:var(--ab);color:var(--ac);border-radius:6px;padding:0 8px;font-size:13px;font-weight:bold}
+table{width:100%;border-collapse:collapse}td,th{padding:6px;border-bottom:1px solid var(--bd);text-align:left;font-size:14px}

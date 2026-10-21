@@ -1,0 +1,56 @@
+{
+  "id": "a1-02",
+  "level": "A1",
+  "title": "Tu rutina diaria",
+  "can": "Puedo describir lo que hago cada día.",
+  "text": "I wake up at six. I eat breakfast at seven. Then I take the bus to work. I start at eight. In the evening I cook dinner and watch TV.",
+  "translation": "Me despierto a las seis. Desayuno a las siete. Luego tomo el bus al trabajo. Empiezo a las ocho. En la noche cocino la cena y veo TV.",
+  "vocab": [
+    {
+      "en": "wake up",
+      "es": "despertarse",
+      "example": "I wake up early."
+    },
+    {
+      "en": "breakfast",
+      "es": "desayuno",
+      "example": "I eat breakfast at seven."
+    },
+    {
+      "en": "take the bus",
+      "es": "tomar el bus",
+      "example": "I take the bus to work."
+    },
+    {
+      "en": "cook",
+      "es": "cocinar",
+      "example": "I cook dinner."
+    }
+  ],
+  "grammar": "Presente simple: para hábitos. I work / you work / he works. Con he, she, it se añade -s: “She works”. Negativo: don’t / doesn’t + verbo base.",
+  "caution": "Se dice “eat breakfast”, no “take breakfast”. “Take” va con bus, shower, photo.",
+  "quiz": [
+    {
+      "q": "She ___ the bus every day.",
+      "options": [
+        "take",
+        "takes",
+        "taking"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "¿A qué hora desayuna?",
+      "options": [
+        "six",
+        "seven",
+        "eight"
+      ],
+      "answer": 1
+    }
+  ],
+  "write": {
+    "prompt": "Escribe 4 frases sobre tu mañana, de la hora de despertar hasta salir de casa.",
+    "model": "I wake up at six. I eat breakfast with my family. I take a shower. I leave home at seven."
+  }
+}
